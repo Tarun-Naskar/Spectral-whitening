@@ -39,7 +39,7 @@ Each of these scripts has a main code and a corresponding function code.
 The field data used in the study is provided in ".xlsx" format:
 
 1. 'Nandanam_4s_2.5m@1m'
-2. 'iisc_aerofield_noisy_2s_2.5m@0\.5m'
+2. 'iisc_aerofield_noisy_2s_2.5m@0.5m'
 3. 'Love_2s_5m@1m'
 4. 'dalmoro_24@2m_1s@1000ps_5m'
 

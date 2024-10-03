@@ -19,15 +19,15 @@ Each of these scripts has a main code and a corresponding function code.
 
 2. **f-k transform:** 
    - Main code:     "fk_main.m"
-   - Function code: "fk_fun.p"
+   - Function code: "fk_fun.m"
 
 3. **t-p transform:** 
    - Main code:     "tp_main.m"
-   - Function code: "tp_fun.p"
+   - Function code: "tp_fun.m"
      
 4. **HRLRT transform:** 
    - Main code:     "HRLRT_main.m"
-   - Function code: "HRLRT_fun.p"
+   - Function code: "HRLRT_fun.m"
      
 5. **F-J transform:** 
    - Main code:     "F_J_Main.m"

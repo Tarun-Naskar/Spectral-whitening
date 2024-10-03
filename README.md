@@ -24,11 +24,11 @@ Each of these scripts has a main code and a corresponding function code.
 3. **t-p transform:** 
    - Main code:     "tp_main.m"
    - Function code: "tp_fun.p"
-   - 
+     
 4. **HRLRT transform:** 
    - Main code:     "HRLRT_main.m"
    - Function code: "HRLRT_fun.p"
-   - 
+     
 5. **F-J transform:** 
    - Main code:     "F_J_Main.m"
    - Function code: "FJ_fun.m"

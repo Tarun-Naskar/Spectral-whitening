@@ -2,28 +2,36 @@
 -----------------------------------------------------------------
 **Program:**
 -----------------------------------------------------------------
+- Phase_shift.m
 - fk_main.m
 - tp_main.m
 - HRLRT_main.m
-
+- F_J_Main.m
 -----------------------------------------------------------------
 **Description:**
 -----------------------------------------------------------------
 
 Each of these scripts has a main code and a corresponding function code.
 
-1. **f-k transform:** 
+1. **f-c transform:** 
+   - Main code:     "Phase_shift.m"
+   - Function code: "phase_shift_fun.m"
+
+2. **f-k transform:** 
    - Main code:     "fk_main.m"
    - Function code: "fk_fun.p"
 
-2. **t-p transform:** 
+3. **t-p transform:** 
    - Main code:     "tp_main.m"
    - Function code: "tp_fun.p"
-
-3. **HRLRT transform:** 
+   - 
+4. **HRLRT transform:** 
    - Main code:     "HRLRT_main.m"
    - Function code: "HRLRT_fun.p"
-
+   - 
+5. **F-J transform:** 
+   - Main code:     "F_J_Main.m"
+   - Function code: "FJ_fun.m"
 -----------------------------------------------------------------
 **Data:**
 -----------------------------------------------------------------

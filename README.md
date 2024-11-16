@@ -6,7 +6,7 @@
 - fk_main.m
 - tp_main.m
 - HRLRT_main.m
-- F_J_Main.m
+- Modified_FJ_Main.m
 -----------------------------------------------------------------
 **Description:**
 -----------------------------------------------------------------
@@ -30,8 +30,8 @@ Each of these scripts has a main code and a corresponding function code.
    - Function code: "HRLRT_fun.m"
      
 5. **F-J transform:** 
-   - Main code:     "F_J_Main.m"
-   - Function code: "FJ_fun.m"
+   - Main code:     "Modified_FJ_Main.m"
+   - Function code: "Modified_FJ_fun.m"
 -----------------------------------------------------------------
 **Data:**
 -----------------------------------------------------------------
